@@ -1,4 +1,5 @@
 # Axium Handheld Deployment Guide
+**Revision: November 17, 2025**
 
 ## Overview
 This guide covers the complete process for deploying Axium handheld devices for Aloha OrderPay, from estate manager configuration through final payment verification.
